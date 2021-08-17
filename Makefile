@@ -5,7 +5,6 @@ preinstall:
 	apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools -y
 	apt install qt5-default -y
 	apt install gir1.2-goocanvas-2.0 python3-gi python3-gi-cairo python3-pygraphviz gir1.2-gtk-3.0 ipython3 -y
-	apt install python-pygraphviz python-kiwi python-pygoocanvas libgoocanvas-dev ipython -y
 	apt install openmpi-bin openmpi-common openmpi-doc libopenmpi-dev -y
 	apt install autoconf cvs bzr unrar -y
 	apt install gdb valgrind  -y
