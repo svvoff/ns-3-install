@@ -16,3 +16,5 @@ preinstall:
 	python3 -m pip install --user cxxfilt
 	apt install libgtk-3-dev -y
 	apt install libxml2 libxml2-dev libboost-all-dev -y
+	apt install mercurial
+	apt install python-dev
